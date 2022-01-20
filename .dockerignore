@@ -1,2 +1,4 @@
 .git/
 build-and-push.sh
+Dockerfile.out
+Dockerfile

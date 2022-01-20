@@ -30,4 +30,4 @@ EXPOSE 3128
 LABEL maintainer="pmdumuid@gmail.com"
 LABEL description="A squid-proxy that supports proxying ssl traffic"
 LABEL vcs-url="https://github.com/pmdumuid/squid_proxy"
-LABEL vcs-ref="${BUILD_VCS_REF}"
+LABEL vcs-ref="__BUILD_VCS_REF__"
